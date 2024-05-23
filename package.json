@@ -59,6 +59,6 @@
     "@trpc/server": "^10.45.2"
   },
   "dependencies": {
-    "errory": "^0.1.11"
+    "errory": "^0.1.12"
   }
 }
